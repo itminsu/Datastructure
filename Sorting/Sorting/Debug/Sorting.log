@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\portfolio자료\datastructure\sorting\sorting\source.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sorting.cpp
+  Generating Code...
+  Sorting.vcxproj -> D:\portfolio자료\Datastructure\Sorting\Debug\Sorting.exe
+  Sorting.vcxproj -> D:\portfolio자료\Datastructure\Sorting\Debug\Sorting.pdb (Partial PDB)
